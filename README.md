@@ -6,6 +6,9 @@
 
 3. Make files Executable : check_all_files.sh,webcam.sh
 
+4. Run the take_img.py file to get and send the image to firebase 
+
+
 setUp crontab:
 
 =>0 * * * * python3 /home/pi/Desktop/piCodes/take_img.py
